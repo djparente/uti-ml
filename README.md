@@ -1,5 +1,5 @@
 # uti-ml
-UTI ML Scientific Project
+Machine Learning for Prediction of Urine Cultures in Primary Care
 
 ## Overview
 
